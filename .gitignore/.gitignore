@@ -1,0 +1,113 @@
+<html>
+
+<head>
+<title> Página principal  </title>  </head>
+
+<body bgcolor="gray" text="white" font="animated" fontsize="15%">
+
+<table align="center">
+ <tr>
+  <td colspan="2"> <img src="banner.jpg"></td>
+ </tr>
+ <tr> 
+  <td rowspan="2">     
+
+  <center><strong> Menú </strong></center> <br>
+
+<li>  Animes:  </li>
+<blockquote><a href="astroboy.html"> Astroboy </a></blockquote>
+<blockquote><a href="bayblade.html"> Bayblade </a></blockquote>
+<blockquote><a href="bakugan.html"> Bakugan </a></blockquote>
+<blockquote><a href="candy.html"> Candy Candy </a></blockquote>
+<blockquote><a href="dragonball.html"> Dagon ball </a></blockquote>
+<blockquote><a href="deathnote.html"> Death Note </a></blockquote>
+<blockquote><a href="digimon.html"> Digimon </a></blockquote>
+<blockquote><a href="doraemon.html"> Doraemon </a></blockquote>
+<blockquote><a href="fairytail.html"> Fairy Tail </a></blockquote>
+<blockquote><a href="hamtaro.html"> Hamtaro </a></blockquote>
+<blockquote><a href="heidi.html"> Heidi </a></blockquote>
+<blockquote><a href="highschoolofthedead.html"> High School Of The Dead </a></blockquote>
+<blockquote><a href="inuyasha.html"> Inuyasha </a></blockquote>
+<blockquote><a href="kaichouwa.html"> Kaichou Wa Maid-Sama </a></blockquote>
+<blockquote><a href="Loscaballerosdelzodiaco.html"> Los caballeros del zodiaco </a></blockquote>
+<blockquote><a href="magicaldoremi.html"> Magical DoReMi </a></blockquote>
+<blockquote><a href="mazzingerz.html"> Mazzinger Z </a></blockquote>
+<blockquote><a href="medabots.html"> Medabots </a></blockquote>
+<blockquote><a href="naruto.html"> Naruto </a></blockquote>
+<blockquote><a href="onepiece.html"> One Piece </a></blockquote>
+<blockquote><a href="pokemon.html"> Pókemon </a></blockquote>
+<blockquote><a href="ranma.html"> Ranma 1/2 </a></blockquote>
+<blockquote><a href="sailormoon.html"> Sailor Moon </a></blockquote>
+<blockquote><a href="sakura.html"> Sakura Card Captor</a></blockquote>
+<blockquote><a href="schooldays.html"> School Days </a></blockquote>
+<blockquote><a href="shinchan.html"> Shin chan </a></blockquote>
+<blockquote><a href="supercampeones.html"> Super Campeones </a></blockquote>
+<blockquote><a href="suzumiya.html"> Suzumiya Haruhi </a></blockquote>
+<blockquote><a href="tokyoghoul.html"> Tokyo Ghoul </a></blockquote>
+<blockquote><a href="yugioh.html"> Yu-Gi-OH! </a></blockquote>
+<li> <a href="clasificacion.html">  Clasificación de animes  </a> </li>
+<blockquote>  </blockquote>
+<li> <a href="http://www.seriesxd.tv/genero/animes"> Ver animes </a> </li>           
+
+
+
+   </td>
+   <td> <center> <br><br>
+   <strong>Anime Definición:</strong> <br>
+   El anime es un fenómeno cultural y de entretenimiento que goza <br>
+de gran popularidad a nivel internacional. Se trata de un arte que<br>
+está vinculado al manga (las historietas japonesas), <br>
+el cosplay (el uso de disfraces) y otras disciplinas y tendencias.<br>
+<br><br>
+
+   <strong>Origen:</strong><br>
+La historia del anime, el género de animación de origen japonés,<br>
+comienza en la segunda década del siglo XX, con una serie de <br>
+cortometrajes similares a los encontrados en otros países, <br>
+influenciados por las obras de Disney en gran parte.<br>
+
+Algún tiempo tras la Segunda Guerra Mundial, empezaron a surgir <br>
+grandes compañías dedicadas tanto a las series televisivas como a<br>
+los largometrajes, entre las que destaca Toei. Aunque muchas <br>
+siguieron en activo en las últimas década del siglo XX, y siguen <br>
+al principio del siglo XXI, una serie de directores y creadores de <br>
+historias han alcanzado renombre propio en este género, bien por <br>
+obras de gran fama, como Katsuhiro Otomo con Akira, Akira Toriyama <br>
+con Dragon Ball, o Masashi Kishimoto con Naruto, como por sus largas <br>
+y premiadas trayectorias como Hayao Miyazaki con Mi vecino Totoro,<br>
+o como Rumiko Takahashi con Inuyasha o Ranma 1/2, etc. <br>
+
+<video src="Openings Anime Latino 4 - The Covers Duo.mp4" width="640" height="480" controls autoplay></video> <br>
+
+<video src="Openings Anime Latino - The Covers Duo.mp4" width="640" height="480" controls></video>
+
+     </center>
+   
+   </td>
+ </tr>
+ <tr>
+ </tr>
+ </tr>
+  <tr >
+   <td colspan="2"><center><div id="footer"> <img src="animebanner2.gif"> </center></div>
+
+   </td>
+
+ </tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
